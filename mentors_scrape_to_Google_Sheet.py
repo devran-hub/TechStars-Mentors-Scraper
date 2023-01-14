@@ -41,8 +41,8 @@ while i<=no:
 
 
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']#readonly
-SERVICE_ACCOUNT_FILE = 'Keys.json'
-SAMPLE_SPREADSHEET_ID = '19CWatx2wiSDPzpBZ1gyeTnaZIjyOacAkssi-vi8bQxE'
+SERVICE_ACCOUNT_FILE = 'aaaaaaa.json'
+SAMPLE_SPREADSHEET_ID = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
 
 credentials = None
 credentials = service_account.Credentials.from_service_account_file(
