@@ -1,5 +1,5 @@
 # TechStars-Mentors-Scraper
-Two scrapers, one of them scrape data into csv file, the other scrapes into Google Sheets Spreadsheet 
+Two scrapers, one of them scrape data into csv file, the other one scrapes into Google Sheets Spreadsheet 
 DATAS:
 > Mentors' name
 
