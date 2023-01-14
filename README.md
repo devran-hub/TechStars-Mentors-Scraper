@@ -7,7 +7,7 @@ DATAS:
 
 > Their Linkedin profile link
 
-mentors.py scrapes data into excel file and mentorlist.xlsx is it's output
+mentors.py scrapes data into excel file and mentorlist-2.xlsx is it's output
 mentors_scrape_to_Google_Sheet.py is the script that scrapes data into Google Sheets: https://docs.google.com/spreadsheets/d/19CWatx2wiSDPzpBZ1gyeTnaZIjyOacAkssi-vi8bQxE/edit#gid=1073663533
 
 
